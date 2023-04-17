@@ -23,3 +23,7 @@ Open index.html in a web browser.
 Enter a city or location name in the search bar and click the "Search" button.
 View the current weather and forecast for the searched location.
 Recently searched cities will be displayed below the search bar for easy access.
+
+
+
+Hello
