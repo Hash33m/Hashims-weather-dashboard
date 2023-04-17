@@ -13,6 +13,10 @@ HTML
 CSS
 JavaScript
 OpenWeatherMap API
+
+## Screenshot
+<img src="./assets/img/Screenshot 2023-04-17 at 5.20.10 PM.png">
+
 ## Usage
 Clone or download the repository to your local machine.
 Open index.html in a web browser.
