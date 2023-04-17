@@ -1,0 +1,23 @@
+* {
+  background-color: transparent;
+}
+
+body {
+  padding: 20px;
+}
+
+header {
+  height: 100px;
+  width: 100%;
+  text-align: center;
+  line-height: 200%;
+  background-color: rgb(8, 119, 174);
+  color: rgb(198, 98, 11);
+  font-size: 60px;
+}
+
+main {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-evenly;
+}
